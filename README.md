@@ -1,7 +1,7 @@
 # telegram-media-downloader-improved
 Original script by: Nestor Qin  
 First major update by: Finomosec  
-Additional modifications by: lucoio
+Additional modifications by: Luishenriq1
 
 I created this fork to implement additional improvements, 
 fixes, and quality-of-life changes while preserving all 
